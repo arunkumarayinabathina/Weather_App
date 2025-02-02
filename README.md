@@ -73,7 +73,7 @@ Enter a city name in the input box to get real-time weather details.
 
 🔥 Check out the deployed version here:
 
-> 🔗 [My Weather App](https://arunkumar1.pythonanywhere.com/)
+> 🔗 [Weather App](https://arunkumar1.pythonanywhere.com/)
 
 
 
