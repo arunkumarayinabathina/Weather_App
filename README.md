@@ -11,6 +11,7 @@
 - run the cmd to install the required packages
   ```cmd
     pip install -r requirements.txt
+- create .env file and add your api key in it as WEATHER_API_KEY = your api key
 - run the app
   ```cmd
     python app.py
@@ -20,7 +21,6 @@
 
 In the home page input box enter the city name which you want the weather details
 
-
-# Below is the public url of mine which i deployed using hosting platform you can check the page
+### Below is the public url of mine which i deployed using hosting platform you can check the page
 
 > https://arunkumar1.pythonanywhere.com/
